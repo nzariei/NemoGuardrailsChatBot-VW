@@ -1,1 +1,1 @@
-# NemoGuardrailsChatBot-VW
+# NemoGuardrails-ChatBot-VW
